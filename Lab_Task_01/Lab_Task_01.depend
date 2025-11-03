@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1762070329 source:c:\users\victus\desktop\lab_task_01\01.cpp
+	<iostream>
+
+1762070329 source:c:\users\victus\desktop\lab_task_01\02.cpp
+	<iostream>
+
+1762070321 source:c:\users\victus\desktop\lab_task_01\03.cpp
+	<iostream>
+	<string>
+
+1584205420 source:c:\users\victus\desktop\lab_task_01\main.cpp
+	<iostream>
+
+1762070442 source:c:\users\victus\desktop\lab_task_01\04.cpp
+	<iostream>
+
