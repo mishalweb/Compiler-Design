@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1762674476 source:c:\users\victus\desktop\compiler design (c)\valid identifier read write\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+
