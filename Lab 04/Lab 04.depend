@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1763280423 source:c:\users\victus\desktop\compiler design (c)\lab 04\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
